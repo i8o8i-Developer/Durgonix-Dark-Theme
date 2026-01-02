@@ -37,7 +37,7 @@
         "breadcrumb.focusForeground": "#00FF41",
         "breadcrumbPicker.background": "#1B1B1D",
         "foreground": "#CFCFCF",
-        "gitDecoration.ignoredResourceForeground": "#BFC7CF",
+        "gitDecoration.ignoredResourceForeground": "#6F7782",
         "gitDecoration.modifiedResourceForeground": "#C9A86A",
         "gitDecoration.untrackedResourceForeground": "#5AA67A",
         "input.background": "#202124",
