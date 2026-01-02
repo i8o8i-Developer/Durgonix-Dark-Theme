@@ -10,7 +10,7 @@
 ```
 
 <div align="center" style="background:#0b0d0f;border-radius:12px;padding:28px 20px;margin-bottom:18px;color:#d6d6d6">
-  <img src="Image/Icon.png" alt="DurgonixIcon" width="120" />
+  <img src="./Image/Icon.png" alt="DurgonixIcon" width="120" />
   <h1 style="margin:8px 0 6px 0;color:#ffffff">Durgonix Dark Theme</h1>
   <p style="margin:0 0 12px 0;color:#bfc7cf"><em>A High-Contrast Dark Theme With Neon Hacker-Green Accents</em></p>
 
@@ -33,7 +33,7 @@
 ## Preview
 
 <p align="center">
-  <img src="Image/Screenshot-Of-Theme.png" alt="Editor Preview" width="880" />
+  <img src="./Image/Screenshot-Of-Theme.png" alt="Editor Preview" width="880" />
 </p>
 
 ## Highlights
@@ -53,11 +53,11 @@
 
 <p align="center">
   <figure style="display:inline-block;margin:8px;text-align:center">
-    <img src="Image/ScreenshotOfTheme.png" alt="Editor Preview" width="420" style="border:1px solid #222;border-radius:8px;" />
+    <img src="./Image/ScreenshotOfTheme.png" alt="Editor Preview" width="420" style="border:1px solid #222;border-radius:8px;" />
     <figcaption>Editor — File View</figcaption>
   </figure>
   <figure style="display:inline-block;margin:8px;text-align:center">
-    <img src="Image/Preview2.png" alt="Preview 2" width="420" style="border:1px solid #222;border-radius:8px;" />
+    <img src="./Image/Preview2.png" alt="Preview 2" width="420" style="border:1px solid #222;border-radius:8px;" />
     <figcaption>Editor — Terminal & Panels</figcaption>
   </figure>
 </p>
