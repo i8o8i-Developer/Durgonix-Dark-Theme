@@ -1,0 +1,41 @@
+{
+  "name": "durgonix-dark-theme",
+  "displayName": "Durgonix Dark",
+  "description": "A High-Contrast Dark Theme With Neon Hacker-Green Accents.",
+  "version": "1.0.0",
+  "icon": "Image/Icon.png",
+  "publisher": "i8o8i",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i8o8i/Durgonix-Dark-Theme"
+  },
+  "bugs": { "url": "https://github.com/i8o8i/Durgonix-Dark-Theme/issues" },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Durgonix Dark",
+        "uiTheme": "vs-dark",
+        "path": "Theme/DurgonixDarkColorTheme.json"     
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#1f2937",
+    "theme": "dark"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish",
+    "test": "echo \"No Tests Configured\" && exit 0"
+  },
+  "devDependencies": {
+    "vsce": "^2.1.0"
+  },
+  "keywords": ["theme", "dark", "neon", "green", "durgonix"],
+  "homepage": "https://github.com/i8o8i/Durgonix-Dark-Theme"
+}
