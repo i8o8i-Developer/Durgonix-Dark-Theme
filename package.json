@@ -2,7 +2,7 @@
   "name": "durgonix-dark-theme",
   "displayName": "Durgonix Dark",
   "description": "A High-Contrast Dark Theme With Neon Hacker-Green Accents.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "Image/Icon.png",
   "publisher": "i8o8i",
   "license": "MIT",
@@ -15,6 +15,13 @@
     "vscode": "^1.76.0"
   },
   "categories": ["Themes"],
+  "files": [
+    "Theme",
+    "Image",
+    "Readme.md",
+    "Changelog.md",
+    "LICENSE"
+  ],
   "contributes": {
     "themes": [
       {
