@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Theme-NeonGreen-00ff41?style=for-the-badge" alt="ThemeBadge" />
     <img src="https://img.shields.io/badge/Contrast-High-007A2E?style=for-the-badge" alt="ContrastBadge" />
     <img src="https://img.shields.io/vscode-marketplace/v/i8o8i.durgonix-dark-theme?style=for-the-badge" alt="MarketplaceVersion" />
-    <img src="https://img.shields.io/github/stars/i8o8i/Durgonix-Dark-Theme?style=for-the-badge" alt="StarsBadge" />
+    <img src="https://img.shields.io/github/stars/i8o8i-Developer/Durgonix-Dark-Theme?style=for-the-badge" alt="StarsBadge" />
     <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" alt="LicenseBadge" />
   </p>
 
