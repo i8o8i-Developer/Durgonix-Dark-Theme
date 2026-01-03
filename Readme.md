@@ -1,7 +1,7 @@
-```                                                                                                            
-████▄  ▄▄ ▄▄ ▄▄▄▄   ▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄ ▄▄ ▄▄   ████▄   ▄▄▄  ▄▄▄▄  ▄▄ ▄▄   ██████ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄ 
+```text
+████▄  ▄▄ ▄▄ ▄▄▄▄   ▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄ ▄▄ ▄▄   ████▄   ▄▄▄  ▄▄▄▄  ▄▄ ▄▄   ██████ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄
 ██  ██ ██ ██ ██▄█▄ ██ ▄▄ ██▀██ ███▄██ ██ ▀█▄█▀   ██  ██ ██▀██ ██▄█▄ ██▄█▀     ██   ██▄██ ██▄▄  ██▀▄▀██ ██▄▄  
-████▀  ▀███▀ ██ ██ ▀███▀ ▀███▀ ██ ▀██ ██ ██ ██   ████▀  ██▀██ ██ ██ ██ ██     ██   ██ ██ ██▄▄▄ ██   ██ ██▄▄▄                                           
+████▀  ▀███▀ ██ ██ ▀███▀ ▀███▀ ██ ▀██ ██ ██ ██   ████▀  ██▀██ ██ ██ ██ ██     ██   ██ ██ ██▄▄▄ ██   ██ ██▄▄▄
 ```
 <div align="center" style="background:#0b0d0f;border-radius:12px;padding:28px 20px;margin-bottom:18px;color:#d6d6d6">
   <img src="https://raw.githubusercontent.com/i8o8i-Developer/Durgonix-Dark-Theme/main/Image/Icon.png" alt="DurgonixIcon" width="120" />
@@ -22,6 +22,23 @@
     <img src="https://img.shields.io/badge/Code%20Style-Prettier-ff69b4?style=for-the-badge" alt="CodeStyleBadge" />
     <img src="https://img.shields.io/badge/Status-Production-green?style=for-the-badge" alt="StatusBadge" />
   </p>
+
+---
+<div>
+  <p style="margin-top:12px;">
+    <a href="#preview" style="text-decoration:none"><img src="https://img.shields.io/badge/Preview-Showcase-00ff41?style=for-the-badge" alt="PreviewBadge" /></a>
+    <a href="#QuickInstall" style="text-decoration:none"><img src="https://img.shields.io/badge/Install-Guide-ffffff?style=for-the-badge" alt="InstallBadge" /></a>
+    <a href="#Contributing" style="text-decoration:none"><img src="https://img.shields.io/badge/Contribute-Welcome-ffcc00?style=for-the-badge" alt="ContributeBadge" /></a>
+    <a href="#Support" style="text-decoration:none"><img src="https://img.shields.io/badge/Support-OpenAnIssue-ff4444?style=for-the-badge" alt="SupportBadge" /></a>
+  </p>
+</div>
+
+## Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/i8o8i-Developer/Durgonix-Dark-Theme/main/Image/Screenshot-Of-Theme.png" alt="Editor Preview" width="880" />
+</p>
+
 ---
 
 ## About The Project
@@ -41,17 +58,6 @@ Join Our Active Community Of Users And Contributors! Whether You Are A Seasoned 
 - [Discussions & Feature Requests](https://github.com/i8o8i-Developer/Durgonix-Dark-Theme/discussions)
 - [Report Bugs Or Issues](https://github.com/i8o8i-Developer/Durgonix-Dark-Theme/issues)
 - [Follow On GitHub](https://github.com/i8o8i-Developer)
-
----
-## Roadmap
-
-- [ ] Durgonix Dark Ultra Variant (Even Darker Surfaces)
-- [ ] Light Mode Variant (Durgonix Light)
-- [ ] Custom Icon Theme
-- [ ] Semantic Token Support For More Languages
-- [ ] Community-Driven Color Suggestions
-
-See The [Changelog](Changelog.md) For Recent Updates.
 
 ---
 ## Security
@@ -74,20 +80,6 @@ This Theme Contains No Executable Code And Is Safe For All Users. If You Discove
 - Built With ❤️ By [i8o8i-Developer](https://github.com/i8o8i-Developer) And The Open Source Community.
 
 ---
-
-  <p style="margin-top:12px;">
-    <a href="#preview" style="text-decoration:none"><img src="https://img.shields.io/badge/Preview-Showcase-00ff41?style=for-the-badge" alt="PreviewBadge" /></a>
-    <a href="#QuickInstall" style="text-decoration:none"><img src="https://img.shields.io/badge/Install-Guide-ffffff?style=for-the-badge" alt="InstallBadge" /></a>
-    <a href="#Contributing" style="text-decoration:none"><img src="https://img.shields.io/badge/Contribute-Welcome-ffcc00?style=for-the-badge" alt="ContributeBadge" /></a>
-    <a href="#Support" style="text-decoration:none"><img src="https://img.shields.io/badge/Support-OpenAnIssue-ff4444?style=for-the-badge" alt="SupportBadge" /></a>
-  </p>
-</div>
-
-## Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/i8o8i-Developer/Durgonix-Dark-Theme/main/Image/Screenshot-Of-Theme.png" alt="Editor Preview" width="880" />
-</p>
 
 ## Highlights
 
