@@ -1,8 +1,6 @@
-```text
-████▄  ▄▄ ▄▄ ▄▄▄▄   ▄▄▄▄  ▄▄▄  ▄▄  ▄▄ ▄▄ ▄▄ ▄▄   ████▄   ▄▄▄  ▄▄▄▄  ▄▄ ▄▄   ██████ ▄▄ ▄▄ ▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄
-██  ██ ██ ██ ██▄█▄ ██ ▄▄ ██▀██ ███▄██ ██ ▀█▄█▀   ██  ██ ██▀██ ██▄█▄ ██▄█▀     ██   ██▄██ ██▄▄  ██▀▄▀██ ██▄▄  
-████▀  ▀███▀ ██ ██ ▀███▀ ▀███▀ ██ ▀██ ██ ██ ██   ████▀  ██▀██ ██ ██ ██ ██     ██   ██ ██ ██▄▄▄ ██   ██ ██▄▄▄
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/i8o8i-Developer/Durgonix-Dark-Theme/main/Image/Ascii-Art.png" alt="Durgonix ASCII Art" />
+</p>
 <div align="center" style="background:#0b0d0f;border-radius:12px;padding:28px 20px;margin-bottom:18px;color:#d6d6d6">
   <img src="https://raw.githubusercontent.com/i8o8i-Developer/Durgonix-Dark-Theme/main/Image/Icon.png" alt="DurgonixIcon" width="120" />
   <p style="margin:0 0 12px 0;color:#bfc7cf"><em>A High-Contrast Dark Theme With Neon Hacker-Green Accents</em></p>
