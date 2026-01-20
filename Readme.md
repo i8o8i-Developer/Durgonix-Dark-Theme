@@ -165,7 +165,7 @@ Durgonix Dark Theme Is An Open Source Project Maintained By The Community And Le
 All Contributors Are Expected To Uphold A Respectful, Inclusive, And Collaborative Environment. Please Review The Code Of Conduct Before Participating.
 
 ### Ownership & Credits
-The Durgonix Dark Theme Was Created And Is Maintained By [i8o8i-Developer](https://github.com/i8o8i-Developer). Major contributions and improvements are credited in the Changelog and via GitHub history. All contributors are welcome and will be acknowledged.
+The Durgonix Dark Theme Was Created And Is Maintained By [i8o8i-Developer](https://github.com/i8o8i-Developer). Major Contributions And Improvements Are Credited In The Changelog And Via GitHub History. All Contributors Are Welcome And Will Be Acknowledged.
 
 ### Project Philosophy
 This Theme Is Designed To Prioritize Accessibility, High Contrast, And A Unique Neon Aesthetic. All Contributions Should Align With These Core Principles To Ensure A Consistent User Experience.
