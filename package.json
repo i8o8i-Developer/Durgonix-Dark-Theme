@@ -2,7 +2,7 @@
   "name": "durgonix-dark-theme",
   "displayName": "Durgonix Dark Theme",
   "description": "A High-Contrast Dark Theme With Neon Hacker-Green Accents.",
-  "version": "1.0.6",
+  "version": "1.1.1",
   "icon": "Image/Icon.png",
   "publisher": "i8o8i",
   "license": "MIT",
@@ -15,13 +15,6 @@
     "vscode": "^1.76.0"
   },
   "categories": ["Themes"],
-  "files": [
-    "Theme",
-    "Image",
-    "Readme.md",
-    "Changelog.md",
-    "LICENSE"
-  ],
   "contributes": {
     "themes": [
       {
@@ -43,6 +36,20 @@
   "devDependencies": {
     "vsce": "^2.1.0"
   },
-  "keywords": ["theme", "dark", "neon", "green", "durgonix"],
+  "keywords": [
+    "theme",
+    "dark",
+    "neon",
+    "green",
+    "cyberpunk",
+    "durgonix",
+    "python",
+    "typescript",
+    "javascript",
+    "rust",
+    "golang",
+    "flutter",
+    "docker"
+  ],
   "homepage": "https://github.com/i8o8i-Developer/Durgonix-Dark-Theme"
 }

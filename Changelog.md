@@ -11,10 +11,46 @@ And This Project Adheres To [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Planned
 - Add Durgonix Dark Ultra Variant With Enhanced Contrast Levels
-- Implement Language-Specific Token Overrides For Go And Rust
 - Create Custom Icon Theme To Complement Color Scheme
-- Add Support For Semantic Highlighting Tokens
 - Implement Theme Variant For Light Mode (Durgonix Light)
+
+---
+
+## [1.1.1] - 2026-09-01
+
+### Changed
+- Refined Readme Hero To Feature Streamlined Neon ASCII Art Header
+- Updated Documentation Badges With Vibrant Cyberpunk Color Palette
+
+---
+
+## [1.1.0] - 2026-09-01
+
+### Added
+- **Semantic Highlighting Engine**: Full Language Server Protocol Semantic Token Coloring For Types, Classes, Interfaces, Parameters, Properties, Decorators, Macros, And Lifetimes.
+- **Deep Multi-Language Support**:
+  - **TypeScript & JavaScript (TSX/JSX)**: Component Tags, React Hooks, Generics, Attributes, Template Interpolations, And Async/Await Flow Control.
+  - **Java**: Annotations, Package Declarations, Class Structures, Primitive/Object Arrays, And Methods.
+  - **Flutter & Dart**: Widget Tree Components, Named Constructor Parameters, Build Methods, And Async Handling.
+  - **Golang**: Structs, Interfaces, Goroutine Channels, Builtins, Packages, And Struct Field Tags.
+  - **Rust**: Lifetimes (`'a`), Macros (`println!`), Traits, Pattern Matching, And Attributes (`#[derive]`).
+  - **PHP**: Dollar Variables, Namespaces, Superglobals, Attributes, And Builtin Functions.
+  - **.ENV, Config & INI / TOML**: Neon Key-Value Pairs, Sections, Operators, And Typed Literals.
+  - **Nginx Config**: Directives, Server/Location Blocks, Variables, Upstream Targets, And Configuration Flags.
+  - **Docker & Docker Compose**: Dockerfile Directives, Compose Services, Ports, Volumes, And Environment Definitions.
+  - **C, C++, C#, Kotlin, Swift, Ruby, Prisma & Vue**: Expanded Grammar Coverage Across All Popular Stacks.
+  - **SQL, Shell / Bash, Markdown, YAML & GraphQL**: Complete Syntax Token Definitions.
+- **IDE Workbench Overhaul**:
+  - Bracket Pair Colorization Neon Rainbow (`#FED604`, `#F859B1`, `#00FFD9`, `#2493FA`, `#B267E6`, `#00FF41`).
+  - Glowing Neon Active Tab Top And Bottom Accent Borders.
+  - Modern Command Center Search Bar Styling With Neon Border Accent.
+  - Editor Inlay Hints Styled With Distinct Type And Parameter Colors.
+  - Enhanced Minimap Highlights, Peek View Borders, Quick Open Palette, And Diagnostic Squiggles.
+  - Full 16-Color ANSI Terminal Palette Matching The Cyberpunk Matrix Theme.
+
+### Changed
+- Updated Package Version To 1.1.0
+- Optimized Packaging Configuration Using VsCodeIgnore Exclusions
 
 ---
 
